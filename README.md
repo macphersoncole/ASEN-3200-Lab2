@@ -1,2 +1,2 @@
-# STK-and-Gibb-s-Method
+# STK-and-Gibbs-Method
 ASEN 3200 Lab 2
